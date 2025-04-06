@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470355354735",
+    "project_id": "my-new-app-716fd",
+    "storage_bucket": "my-new-app-716fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470355354735:android:906862b01b1b285f1e999a",
+        "android_client_info": {
+          "package_name": "com.nibm.mynewapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUy178r-V3HEqFHpkpQ3dQxftOz4mzdWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
